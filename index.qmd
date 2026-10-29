@@ -1,7 +1,7 @@
 ---
-title: "Your Name"
+title: "Richard Schwank"
 subtitle: "Mathematical Statistician"
-image: "images/Picture.png"
+image: "images/Picture.jpg"
 execute: 
   echo: false
   warning: false
@@ -9,40 +9,42 @@ about:
   template: trestles
   links:
     - icon: github
-      href: https://github.com/yourname
+      href: https://github.com/rischwank
+      target: _blank
     - icon: linkedin
-      href: https://linkedin.com/in/your_linkedin_page
+      href: https://www.linkedin.com/in/richard-schwank-3a5424241
+      target: _blank
     - text: '<i class="ai ai-orcid fa-lg"></i>'
-      href: https://orcid.org/0000-0000-0000-0000
+      href: https://orcid.org/0009-0004-0956-3106
+      target: _blank
     - text: '<i class="ai ai-google-scholar fa-lg"></i>'
-      href: https://scholar.google.com/yourname
+      href: https://scholar.google.com/citations?user=D3n2OTAAAAAJ&hl=en&oi=ao
+      target: _blank
 ---
 
 ### About
 
-I am a NUMBER year PhD student at the chair of Mathematical Statistics at TUM. I am very fortunate to be supervised by [Mathias Drton](https://www.math.cit.tum.de/math/personen/professuren/drton-mathias/) and funded through [FUNDING](https://funding_website). 
+I am a third year PhD student at the chair of Mathematical Statistics at TU Munich. I am very greatful to be supervised by [Mathias Drton](https://www.math.cit.tum.de/math/personen/professuren/drton-mathias/) and funded through [relAI](https://zuseschoolrelai.de). 
 
-Before, I was [background].
+My research area is non-parametric Statistics and Machine Learning. In particular, I study incomplete observation models and robustness.
 
-My research focuses on [details]. My perspective has been shaped by [work].
+### Research Interests
 
-[Curriculum Vitae (01/2002)](content/cv/cv.pdf)
+* Causal identification from cross-sectional data
 
-### Interest
+* Generative Diffusion Models
 
-* Graphical Models
+* Robust mean estimation
 
-* Interest 2
+### Curriculum Vitae
 
-### Education
+* Research visit (upcoming), 2027, *UC Berkeley, California*
 
-* (expected winter / 2003) PhD in Mathematical Statistics, Advisor: Mathias Drton, *TU Munich, Germany*
+* Master in Mathematics, 2024, *TU Munich, Germany* <br>
+Visiting Student, 2023, *TU Delft, Netherlands*<br>
+Internship [Cyber Data Analyst], 2022 *Munich Re, Germany*
 
-* Master [in Mathematics], 2002, *University, Country* <br>
-Visiting Student, 2003 - 2004, *University Exchange, Country*
+* Bachelor in Mathematics, 2021, *FAU Erlangen-Nürnberg, Germany*
 
-* Bachelor [in Mathematics], 2000, *University, Country*
-
-### Experience 
-
-* Internship / Role, 1998 – 1999, *Company, City*
+### Contact
+firstname.lastname (at) tum.de

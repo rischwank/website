@@ -2,29 +2,29 @@
   {
     "objectID": "pages/presentations.html",
     "href": "pages/presentations.html",
-    "title": "Oral",
+    "title": "Oral presentations",
     "section": "",
-    "text": "Oral\n\nName of Meeting (NoM) City (09/2026)\nTitle of Presentation\n\n\nName of Conference 2026. City (08/2026)\nTitle of Presentation\n\n\n\nPoster\n\nName of Meeting (NoM) City (01/2023)\nTitle of Poster\n\n\nName of Conference 2026. City (08/2026)\nTitle of Poster"
+    "text": "Oral presentations\n\nIMS Annual Meeting 2026, Salzburg (07/2026)\nNon-parametric recovery of causal diffusion mechanisms from equilibrium observations\n\n\nStatMathAppli 2025, Frejus (09/2025)\nRobust score matching\n\n\nARES 2024, Vienna (07/2024)\nIs personalization worth it? notifying blogs about a privacy issue resulting from poorly implemented consent banners\n\n\n\nPosters\n\nEUROCIM 2026, Oxford (04/2026)\nNon-parametric recovery of causal diffusion mechanisms from equilibrium observations\n\n\nAISTATS 2025, Phuket (05/2025)\nRobust Score Matching"
   },
   {
     "objectID": "pages/research.html",
     "href": "pages/research.html",
     "title": "Publications",
     "section": "",
-    "text": "Publications\n\nPaper Name\nYour Name, Author 2 Name, Author 3 Name.\nAccepted at Venue\narXiv, presentation, code\n\n\nPublished Paper Name 2\nYour Name, Author 2\n5th conference on Great Statistic (CoGS), 2030.\npaper, presentation, poster, code, notebook"
+    "text": "Publications\n\nNon-parametric recovery of causal diffusion mechanisms from steady-state observations\nSchwank, R. & Drton, M.\nArXiv preprint (2026)\narXiv\n\n\nOn the distance between mean and geometric median in high dimensions\nSchwank, R. & Drton, M.\nStatistics & Probability Letters, No. 110679 (2026)\nFull text\n\n\nRobust Score Matching\nSchwank, R., McCormack, A. & Drton, M.\nAISTATS (2025)\nFull text\n\n\nIs personalization worth it? notifying blogs about a privacy issue resulting from poorly implemented consent banners\nKriecherbauer, T., Schwank, R., Krauss, A., Neureither, K., Remme, L., Volkamer, M., & Herrmann, D.\nARES (2024)\nFull text"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Your Name",
+    "title": "Richard Schwank",
     "section": "",
-    "text": "About\nI am a NUMBER year PhD student at the chair of Mathematical Statistics at TUM. I am very fortunate to be supervised by Mathias Drton and funded through FUNDING.\nBefore, I was [background].\nMy research focuses on [details]. My perspective has been shaped by [work].\nCurriculum Vitae (01/2002)\n\n\nInterest\n\nGraphical Models\nInterest 2\n\n\n\nEducation\n\n(expected winter / 2003) PhD in Mathematical Statistics, Advisor: Mathias Drton, TU Munich, Germany\nMaster [in Mathematics], 2002, University, Country  Visiting Student, 2003 - 2004, University Exchange, Country\nBachelor [in Mathematics], 2000, University, Country\n\n\n\nExperience\n\nInternship / Role, 1998 – 1999, Company, City"
+    "text": "About\nI am a third year PhD student at the chair of Mathematical Statistics at TU Munich. I am very greatful to be supervised by Mathias Drton and funded through relAI.\nMy research area is non-parametric Statistics and Machine Learning. In particular, I study incomplete observation models and robustness.\n\n\nResearch Interests\n\nCausal identification from cross-sectional data\nGenerative Diffusion Models\nRobust mean estimation\n\n\n\nCurriculum Vitae\n\nResearch visit (upcoming), 2027, UC Berkeley, California\nMaster in Mathematics, 2024, TU Munich, Germany  Visiting Student, 2023, TU Delft, Netherlands Internship [Cyber Data Analyst], 2022 Munich Re, Germany\nBachelor in Mathematics, 2021, FAU Erlangen-Nürnberg, Germany\n\n\n\nContact\nfirstname.lastname (at) tum.de"
   },
   {
     "objectID": "pages/teaching.html",
     "href": "pages/teaching.html",
-    "title": "Teaching Assistant",
+    "title": "Supervised Theses",
     "section": "",
-    "text": "Teaching Assistant\n\nLecture Name 1\nSummer 2001\n\n\nLecture Name 2\nWinter 2002\n\n\n\nMaster Students\n\nTitle of Thesis 1\nStudent Name. Summer 2003\n\n\nTitle of Thesis 2\nStudent Name 2. Winter 2004"
+    "text": "Supervised Theses\n\nNonparametric Estimation of Causal Lyapunov Models\nViktor Vasilev, 2026\n\n\nScore Matching with Missing Data for Graphical Models\nWei Peng, 2026\n\n\nEfficient Estimation in the Linear Lyapunov Causal Model\nAugust Lasinger, 2025\n\n\n\nTeaching Assistant\nI have served as a teaching assistant for various courses in mathematics and computer science."
   }
 ]

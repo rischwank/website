@@ -9,14 +9,25 @@ h4 a {
 
 # Publications
 
-#### Paper Name
-**Your Name**, Author 2 Name, Author 3 Name. \
-*Accepted at [Venue](https://google.com/)* \
-[arXiv](https://arxiv.org/abs/...), [presentation](./../content/Presentation.pdf), [code](https://doi.org/10.5281/...)
+#### Non-parametric recovery of causal diffusion mechanisms from steady-state observations
+Schwank, R. & Drton, M. \
+*ArXiv preprint (2026)* \
+[arXiv](https://arxiv.org/abs/2606.30467v1)
 
-#### Published Paper Name 2
-**Your Name**, Author 2 \
-*5th conference on Great Statistic (CoGS), 2030.* \
-[paper](https://link_to_publisher), [presentation](./../content/Presentation.pdf), [poster](./../content/Poster.pdf), [code](https://github.com/yourname/repository), [notebook](https://st-mardi.quarto.pub/gmci/online_notebook)
+#### On the distance between mean and geometric median in high dimensions
+Schwank, R. & Drton, M. \
+*Statistics & Probability Letters, No. 110679 (2026)* \
+[Full text](https://doi.org/10.1016/j.spl.2026.110679)
+
+#### Robust Score Matching
+Schwank, R., McCormack, A. & Drton, M. \
+*AISTATS (2025)* \
+[Full text](https://proceedings.mlr.press/v258/schwank25a.html)
+
+#### Is personalization worth it? notifying blogs about a privacy issue resulting from poorly implemented consent banners
+Kriecherbauer, T., Schwank, R., Krauss, A., Neureither, K., Remme, L., Volkamer, M., & Herrmann, D. \
+*ARES (2024)*\
+[Full text](https://doi.org/10.1145/3664476.3664499)
+
 
 
