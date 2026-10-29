@@ -1,1 +1,1 @@
-Sitemap: https://your_website_url.de/sitemap.xml
+Sitemap: https://rischwank.github.io/website/sitemap.xml
