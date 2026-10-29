@@ -24,7 +24,7 @@ website:
     title: "Richard Schwank"
     description: "I am a third year PhD student at the chair of Mathematical Statistics at the Technical University of Munich (TUM), under the supervision of Prof. Mathias Drton."
     image: images/Picture.jpg
-  site-url: "https://your_website_url.de" #"https://lmareis.github.io"
+  site-url: "https://rischwank.github.io/website/" #"https://lmareis.github.io"
   favicon: images/favicon.png
   search:
     location: navbar
