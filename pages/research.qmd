@@ -9,23 +9,28 @@ h4 a {
 
 # Publications
 
+#### Fingerprints of feedback cycles in stationary diffusions
+with M. Drton \
+*ArXiv preprint (2026)* \
+[arXiv](https://arxiv.org/abs/2611.11288)
+
 #### Non-parametric recovery of causal diffusion mechanisms from steady-state observations
-Schwank, R. & Drton, M. \
+with M. Drton \
 *ArXiv preprint (2026)* \
 [arXiv](https://arxiv.org/abs/2606.30467v1)
 
 #### On the distance between mean and geometric median in high dimensions
-Schwank, R. & Drton, M. \
+with M. Drton \
 *Statistics & Probability Letters, No. 110679 (2026)* \
 [Full text](https://doi.org/10.1016/j.spl.2026.110679)
 
 #### Robust Score Matching
-Schwank, R., McCormack, A. & Drton, M. \
+with  A. McCormack & M. Drton \
 *AISTATS (2025)* \
 [Full text](https://proceedings.mlr.press/v258/schwank25a.html)
 
 #### Is personalization worth it? notifying blogs about a privacy issue resulting from poorly implemented consent banners
-Kriecherbauer, T., Schwank, R., Krauss, A., Neureither, K., Remme, L., Volkamer, M., & Herrmann, D. \
+with T. Kriecherbauer, A. Krauss, K. Neureither, L. Remme, M. Volkamer & D. Herrmann\
 *ARES (2024)*\
 [Full text](https://doi.org/10.1145/3664476.3664499)
 

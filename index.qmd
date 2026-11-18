@@ -28,6 +28,8 @@ I am a third year PhD student at the chair of Mathematical Statistics at TU Muni
 
 My research area is non-parametric Statistics and Machine Learning. In particular, I study incomplete observation models and robustness.
 
+Take a look around: [research](pages/research.html){.no-external}, [teaching](pages/teaching.html){.no-external}, and [presentations](pages/presentations.html){.no-external}.
+
 ### Research Interests
 
 * Causal identification from cross-sectional data
@@ -39,6 +41,8 @@ My research area is non-parametric Statistics and Machine Learning. In particula
 ### Curriculum Vitae
 
 * Research visit (upcoming), 2027, *UC Berkeley, California*
+
+* PhD in Mathematical Statistics (ongoing), since 2024, *TU Munich, Germany*
 
 * Master in Mathematics, 2024, *TU Munich, Germany* <br>
 Visiting Student, 2023, *TU Delft, Netherlands*<br>
